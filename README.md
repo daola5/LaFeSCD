@@ -2,7 +2,7 @@
 This repository provides the code for the method in our paper 'LaFeSCD: Joint Learning of Language Priors and Frequency-Aware Representations for Semantic Change Detection in Remote Sensing Images'.
 
 ## Overview
-<img width="917" height="467" alt="image" src="https://github.com/user-attachments/assets/fbf43bc2-37be-45f3-8ec0-376bc719319c" />
+<img width="1476" height="744" alt="image" src="https://github.com/user-attachments/assets/d8984502-34f5-4582-b95f-8708ab21f942" />
 
 LaFeSCD is a multi-domain joint learning of language, frequency, and spatial for semantic change detection. It works through three modules:
 - **LPR** (Language Priors Representation)
